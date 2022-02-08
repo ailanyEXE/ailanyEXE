@@ -4,7 +4,7 @@
 
 ## Skills and Experience
 
-💻 HTML, CSS, JavaScript, Java, C, EJS, Node.js, Express
+💻 Java, C, Python, HTML, CSS, JavaScript, EJS, Node.js, Express
 
 📋 Network Services Technician at Miami Dade College
 
