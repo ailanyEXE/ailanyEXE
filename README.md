@@ -1,6 +1,6 @@
 # Ailany Rodriguez
 
-👋 Hi, I'm Ailany from Miami, FL and I am currently studying Psychology and Computer Science at Florida International University. I am passionate in the work that I do and I am constantly pushing myself to learn new things. 
+👋 Hi, I'm Ailany from Miami, FL and I am currently studying Psychology and Computer Science at Florida International University. I'm passionate about creating beautiful and intuitive software and I am constantly pushing myself to learn new things. 
 
 ## Skills and Experience
 
