@@ -12,5 +12,3 @@
 
 - [Automated Essay Grader](https://github.com/alejim/AutomatedEssayGrading)
 - [Orbit - A Cryptocurrency Wallet](https://github.com/ailanyEXE/orbit.github.io)
-
-![typing](https://c.tenor.com/Bgi_54meeiMAAAAC/anime-typing.gif)
