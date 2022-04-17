@@ -11,4 +11,4 @@
 ## Projects
 
 - [Automated Essay Grader](https://github.com/alejim/AutomatedEssayGrading)
-- [Orbit - A Cryptocurrency Wallet](https://github.com/ailanyEXE/orbit.github.io)
+- [Orbit - A Cryptocurrency Wallet](https://github.com/ailanyEXE/Orbit-Wallet)
