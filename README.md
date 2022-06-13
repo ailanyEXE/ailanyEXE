@@ -4,7 +4,7 @@
 
 ## Skills and Experience
 
-💻 Java, Python, C, HTML/CSS, JavaScript, React.js, EJS, Node.js, Express, + many other Javascript frameworks.
+💻 Java, Python, JavaScript, C, HTML/CSS, React.js, EJS, Node.js, Express, MongoDB, + many other Javascript frameworks.
 
 📋 Network Services Technician at Miami Dade College
 
